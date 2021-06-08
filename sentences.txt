@@ -1,4 +1,4 @@
-une interfase graphique en web
+une interface graphique en web
 une interface graphique en desktop
-un systeme de base de donnée SQL générique
-un systeme de base de donnée générique SQL et NoSQL
+un système de base de données SQL générique
+un système de base de données générique SQL et NoSQL
