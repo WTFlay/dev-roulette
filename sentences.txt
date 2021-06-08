@@ -2,3 +2,5 @@ une interface graphique en web
 une interface graphique en desktop
 un système de base de données SQL générique
 un système de base de données générique SQL et NoSQL
+une blockchain
+un mode hors-ligne
